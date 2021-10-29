@@ -24,8 +24,8 @@ sections:
         url: https://www.stackbit.com/
         style: tertiary
       - type: Button
-        label: Contact Us
-        url: https://www.stackbit.com/
+        label: About
+        url: https://www.stackbit.com/about
         style: primary  
     feature:
       type: ImageBlock
