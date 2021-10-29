@@ -20,7 +20,8 @@ sections:
         url: https://www.stackbit.com/
         style: secondary
       - type: Button
-        label: Conact Us
+        label: Contact Us
+        
     feature:
       type: ImageBlock
       url: "/images/hero.png"
