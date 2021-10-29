@@ -183,11 +183,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  rmControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
-      submitLabel: Send Message
     styles:
       self:
         height: auto
