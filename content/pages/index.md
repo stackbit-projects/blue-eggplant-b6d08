@@ -61,7 +61,10 @@ sections:
       actions:
         justifyContent: flex-start
   - type: QuotesSection
-    
+    variant: variant-c
+    colors: colors-c
+    backgroundWidth: full
+    title: Blog Posts
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
