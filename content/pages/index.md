@@ -183,41 +183,7 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - type: ContactSection
-    colors: colors-h
-    backgroundWidth: full
-    title: Join our club
-    text: |-
-      We will notify you every time a shipment is heading to your neighborhood, and you could immediatly let us know if you want in or not.
-    feature:
-      type: ImageBlock
-      url: "/images/contact.png"
-      altText: Fisherman holding lobster
-    form:
-      type: FormBlock
-      elementId: contact-form
-      destination: ""
-      action: /.netlify/functions/submission_created
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          placeholder: Your name
-          isRequired: true
-          width: 1/2
-        - type: EmailFormControl
-          name: email
-          label: Email
-          placeholder: Your email
-          isRequired: true
-          width: 1/2
-        - type: TextFormControl
-          name: home-address
-          label: Home address
-          placeholder: Your home address
-          isRequired: true
-          width: full
-        - type: CheckboxFormControl
+  rmControl
           name: updates
           label: Sign me up to receive updates
           width: full
