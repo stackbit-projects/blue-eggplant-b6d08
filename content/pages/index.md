@@ -90,7 +90,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/hilary-ouse.jpg
-          altText: Isabelle Parks
+          altText: Hilary Ouse
         styles:
           self:
             margin: ["mt-0", "mb-0"]
