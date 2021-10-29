@@ -21,7 +21,8 @@ sections:
         style: secondary
       - type: Button
         label: Contact Us
-        url: 
+        url: https://www.stackbit.com/
+        style: 
     feature:
       type: ImageBlock
       url: "/images/hero.png"
