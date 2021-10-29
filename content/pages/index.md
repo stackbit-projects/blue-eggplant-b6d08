@@ -64,7 +64,7 @@ sections:
     variant: variant-c
     colors: colors-c
     backgroundWidth: full
-    title: Blog Posts
+    title: Quotes
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
