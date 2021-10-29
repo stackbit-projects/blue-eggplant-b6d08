@@ -21,7 +21,7 @@ sections:
         style: secondary
       - type: Button
         label: Contact Us
-        
+        url: 
     feature:
       type: ImageBlock
       url: "/images/hero.png"
