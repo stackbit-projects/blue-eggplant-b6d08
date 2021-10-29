@@ -60,6 +60,8 @@ sections:
         margin: ["mt-0", "mb-8"]
       actions:
         justifyContent: flex-start
+  - type: QuotesSection
+    
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
