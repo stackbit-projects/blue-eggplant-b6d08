@@ -19,7 +19,8 @@ sections:
         label: Learn More
         url: https://www.stackbit.com/
         style: secondary
-        
+      - type: Button
+        label: Conact Us
     feature:
       type: ImageBlock
       url: "/images/hero.png"
